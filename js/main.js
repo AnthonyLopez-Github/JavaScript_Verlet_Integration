@@ -1,3 +1,5 @@
+p5.disableFriendlyErrors = true;
+
 /*
 Xn+1 = 2Xn - Xn-1 + an(dt^2)
 

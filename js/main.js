@@ -1,7 +1,8 @@
 /*
 Xn+1 = 2Xn - Xn-1 + an(dt^2)
-Dirty code.
-Need to subdivide horizontally for better performance when veritcle.
+
+ToDo:
+Subdivide horizontally for better performance when the particles are veritcle.
 */
 
 let metersToPixels;
